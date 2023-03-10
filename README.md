@@ -14,3 +14,5 @@ Grade: 98%
 **Laboratory 2: The Pendulum**  
 Grade: 98%  
 
+**Laboratory 3: Projectile motion under the action of air resistance**  
+Grade: 100%  
