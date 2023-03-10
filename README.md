@@ -8,3 +8,6 @@ Code from SF year theoretical physics assignments at TCD
   Lab 4: Fourier Analysis  
 
 
+**Laboratory 1: Finding minima of functions**  
+Grade: 98%  
+
